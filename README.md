@@ -33,7 +33,7 @@ ol
 2. b
 /ol
 
-- [-] checkbox unchec
+- [ ] checkbox unchec
 - [x] checkbox checked
 
 [link](#)
