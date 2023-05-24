@@ -38,9 +38,10 @@ ol
 
 [link](#)
 
-| header | header |
+| titlerow | titlerow |
 | :---: | :---: |
 | ro1col1 | ro1col2 |
+| ro2col1 | ro2col2 |
 
 <details> <summary>dropdown</summary>
   dropdown content
