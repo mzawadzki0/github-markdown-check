@@ -19,6 +19,8 @@ code
 block
 ```
 
+<hr>
+
 ---
 
 <!-- comment -->
