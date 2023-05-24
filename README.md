@@ -31,7 +31,7 @@ ul
 ol
 1. a
 2. b
-/ol
+
 
 - [ ] checkbox unchec
 - [x] checkbox checked
